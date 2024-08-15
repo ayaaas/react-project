@@ -1,0 +1,29 @@
+.landing-page {
+    text-align: center;
+    background-image: url('path-to-background-image.jpg'); /* Replace with your image path */
+    background-size: cover;
+    background-position: center;
+    padding: 50px;
+  }
+  
+  .landing-page h1 {
+    color: white;
+  }
+  
+  .landing-page p {
+    color: white;
+  }
+  
+  .landing-page button {
+    padding: 10px 20px;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  .landing-page button:hover {
+    background-color: #45a049;
+  }
+  
